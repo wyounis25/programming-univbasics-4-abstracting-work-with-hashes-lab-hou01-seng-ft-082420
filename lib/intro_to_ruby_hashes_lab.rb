@@ -1,6 +1,6 @@
-def my_hash_creator(name, value)
+def my_hash_creator(key, value)
   
-  { name: "Grace" }
+  { key => value }
 end
 
 # def read_from_hash(hash, key)
